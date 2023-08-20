@@ -1,3 +1,3 @@
-public Repositorio(){
+public class Repositorio(){
   
 }
